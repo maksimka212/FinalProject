@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="150"
+   height="43"
+   viewBox="0 0 150 43"
+   fill="none"
+   version="1.1"
+   id="svg81"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview83"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="12.709066"
+     inkscape:cx="63.734031"
+     inkscape:cy="31.630963"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     clip-path="url(#clip0_152_839)"
+     id="g18">
+    <path
+       d="M88.1781 6.00003V10.0548H104.397L108.452 6.00003H88.1781ZM88.1781 20.1918V24.2466H104.397L108.452 20.1918H88.1781ZM88.1781 34.3836V38.4384L104.397 38.4384L108.452 34.3836H88.1781Z"
+       stroke="url(#paint0_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path2" />
+    <path
+       d="M29.3835 6.00003H33.4383V10.0548L37.4931 6.00003H43.1699L33.4383 15.7315V38.4384H29.3835V6.00003Z"
+       stroke="url(#paint1_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path4" />
+    <path
+       d="m 47.6302,6.00003 h 10.137 v 22.703406 l -4.0548,-4.0548 V 10.0548 h -4.4603 l -9.7315,9.7315 v 11.7589 l 2.8384,2.8384 h 13.3808 l -2.0274,-2.0274 v -4.0548 l 6.0822,6.0822 2.0274,2.0274 v 2.0274 H 40.7371 L 35.4658,33.1672 V 18.1644 Z"
+       stroke="url(#paint2_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path6"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       d="m 80.0685,6 -4.0548,4.0548 v 2.0274 h -9.7315 l -6.4876,6.0822 v 13.7863 l 6.4876,6.4877 H 80.0685 Z M 67.9041,16.137 h 0.811 1.2164 2.0274 0.811 3.2438 v 18.2466 h -8.1096 l -4.0548,-4.0548 -0.0039,-0.0046 0.0039,-0.0046 V 20.1905 Z"
+       stroke="url(#paint3_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path8"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <path
+       d="M 82.0959,6.00003 V 12.0822 L 86.1507,8.02741 V 6.00003 Z m 0,9.702921 V 38.4384 h 4.0548 V 11.648151 Z"
+       stroke="url(#paint4_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path10"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       d="M108.452 38.4384H112.507V13.7041L116.156 10.0548H127.104L130.753 13.7041V16.137L134.808 18.1644V12.0822L128.726 6.00002H114.534L112.507 8.02741V6.00002L108.452 6V38.4384ZM130.753 24.2466V34.3836V35.1438V36.411V38.4384H134.808V22.2192L130.753 24.2466Z"
+       stroke="url(#paint5_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path12" />
+    <path
+       d="M138.863 6L142.918 10.0548V18.1644H149V22.2192H142.918L142.918 38.4384H138.863L138.863 22.2192H136.836L134.808 20.1918L130.753 22.2192V18.1644L134.808 20.1918L136.836 18.1644H138.863L138.863 6Z"
+       stroke="url(#paint6_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path14" />
+    <path
+       d="M9.51507 6.00003H27.3562V10.0548L23.3014 14.1096V10.0548H11.137L5.0548 16.137V28.3014L11.137 34.3836H20.463L23.3014 31.5452V24.2466H13.1644L9.10959 20.1918H23.3014H27.3562V33.1671L22.0849 38.4384H9.51507L1 29.9233V14.5151L9.51507 6.00003Z"
+       stroke="url(#paint7_linear_152_839)"
+       stroke-width="1.5"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="path16" />
+  </g>
+  <defs
+     id="defs79">
+    <linearGradient
+       id="paint0_linear_152_839"
+       x1="0.846741"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop20" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_152_839"
+       x1="0.846725"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop27" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop29" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear_152_839"
+       x1="0.846799"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop34" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop36" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop38" />
+    </linearGradient>
+    <linearGradient
+       id="paint3_linear_152_839"
+       x1="0.846754"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop41" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop43" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop45" />
+    </linearGradient>
+    <linearGradient
+       id="paint4_linear_152_839"
+       x1="0.846719"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop48" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop50" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop52" />
+    </linearGradient>
+    <linearGradient
+       id="paint5_linear_152_839"
+       x1="0.846664"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop55" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop57" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop59" />
+    </linearGradient>
+    <linearGradient
+       id="paint6_linear_152_839"
+       x1="0.846739"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop62" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop64" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop66" />
+    </linearGradient>
+    <linearGradient
+       id="paint7_linear_152_839"
+       x1="0.846748"
+       y1="22.2192"
+       x2="149.153"
+       y2="22.2192"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FF1717"
+         id="stop69" />
+      <stop
+         offset="0.522599"
+         stop-color="#1811D7"
+         id="stop71" />
+      <stop
+         offset="1"
+         stop-color="#51F200"
+         id="stop73" />
+    </linearGradient>
+    <clipPath
+       id="clip0_152_839">
+      <rect
+         width="148.517"
+         height="41.5848"
+         fill="white"
+         transform="translate(0.832275 0.752548)"
+         id="rect76" />
+    </clipPath>
+  </defs>
+</svg>

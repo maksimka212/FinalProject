@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   id="svg6"
+   sodipodi:docname="check_mark.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="4.3850001"
+     inkscape:cx="29.988597"
+     inkscape:cy="62.029645"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid341" />
+  </sodipodi:namedview>
+  <path
+     id="rect370"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:stroke fill markers;fill-opacity:1"
+     d="M 0 0 L 0 100 L 100 100 L 100 0 L 0 0 z M 78.355469 25.501953 L 85.425781 32.574219 L 43 75 L 42.890625 75.109375 L 14.607422 46.824219 L 21.677734 39.753906 L 42.892578 60.966797 L 78.355469 25.501953 z " />
+  <path
+     id="rect339-5-2"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;paint-order:stroke fill markers"
+     d="m 140.92893,77.928932 42.42641,-42.426406 7.07107,7.071066 L 148,85 Z m -14.25126,-28.175148 28.28427,28.284272 -7.07107,7.071067 -28.28427,-28.284272 z" />
+</svg>
